@@ -17,27 +17,34 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
 <body>
 <br>
 <hr>
-<br><br><br>
+<br><br><br><br><br>
 <center><img src="http://therawchef.com/wp-content/themes/Anatta-Theme/images/sales-page/desert.jpg" style="text-align: center;"></center>
+<div style="text-align: center;">
 <h1>Ingredients:</h1>
 <ul>
-  <li>1/2 package (8 ounces) spaghetti, broken in half</li>
-  <li>1 egg</li>
-  <li>1/4 cup grated Parmesan cheese</li>
-  <li>1/4 cup shredded mozzarella cheese</li>
-  <li>1-3/4 cups marinara sauce, divided</li>
-  <li>12 frozen Italian Style Meatballs, thawed</li>
-  <li>1 tablespoon fresh chopped Basil</li>
-  <li>Additional Parmesan Cheese</li>
+  <p>¾ cup chilled heavy cream, divided</p>
+  <p>4 large egg yolks</p>
+  <p>¼ cup espresso or strong coffee, room temperature</p>
+  <p>3 tablespoons sugar, divided</p>
+  <p>⅛ teaspoon kosher salt</p>
+  <p>6 ounces semisweet chocolate (60-72% cacao), chopped</p>
+  <p>2 large egg whites</p>
 </ul>
 <br><hr>
 <h1>Directions:</h1>
-<p>Preheat oven to 400°F.Cook spaghetti according to package directions. Rinse with cool water and drain.
-In a bowl, combine the egg, Parmesan cheese, mozzarella cheese, 1/4 cup marinara sauce and spaghetti.
-Grease a nonstick muffin pan. Use tongs to fill muffin cups with the spaghetti mixture. Make an indentation in the center of each cup, creating a nest.
-Bake for 13-15 minutes or until set.
-While spaghetti nests are baking, in a saucepan, heat meatballs and 1-1/2 cups marinara sauce over medium heat until meatballs are heated through.
-Carefully remove the baked spaghetti nests from the muffin pan and place on a serving platter. Spoon 1 tablespoon of marinara sauce in the middle of each nest and top with a meatball. Top with an additional tablespoon of sauce, basil and Parmesan cheese.</p>
+<p>Beat ½ cup cream in medium bowl until stiff peaks form; cover and chill.<br>
+
+Combine egg yolks, espresso, salt, and 2 Tbsp. sugar in a large metal bowl. Set over a saucepan of gently simmering water (do not allow bowl to touch water). Cook, whisking constantly, until mixture is lighter in color and almost doubled in volume and an instant-read thermometer inserted into the mixture registers 160 degrees, about 1 minute.
+Remove bowl from pan. Add chocolate; whisk until melted and smooth. Let stand, whisking occasionally, until room temperature.<br><br>
+
+Using an electric mixer, beat egg white in another medium bowl on medium speed until foamy. With mixer running, gradually beat in remaining 1 Tbsp. sugar. Increase speed to high and beat until firm peaks form.<br>
+
+Fold egg whites into chocolate in 2 additions; fold whipped cream into mixture just to blend.<br>
+
+Divide mousse among six teacups or 4-oz. ramekins. Chill until firm, at least 2 hours. DO AHEAD: Mousse can be made 1 day ahead; cover and keep chilled. Let stand at room temperature for 10 minutes before serving.<br>
+
+Before serving, whisk remaining 1/4 cup cream in a small bowl until soft peaks form; dollop over mousse.</p>
+</div>
 
 
 
