@@ -20,7 +20,7 @@
 
 <!-- Top menu -->
 <div class="w3-top">
-  <div class="w3-#C1CFDA w3-xlarge w3-padding-xlarge" style="max-width:1200px;margin:auto;background-color:#C1CFDA;">
+  <div class="w3-#C1CFDA w3-xlarge w3-padding-xlarge" style="max-width:1900px;margin:auto;background-color:#C1CFDA;">
     <div class="w3-opennav w3-left w3-hover-text-grey" onclick="w3_open()">&#9776;</div>
     <div class="w3-right">
       
@@ -35,11 +35,11 @@
 </div>
   
 <!-- !PAGE CONTENT! -->
-<div class="w3-main w3-content w3-padding" style="max-width:1200px;margin-top:100px">
 <br><br><br>
 
   <!-- First Photo Grid-->
   <div class="w3-row-padding w3-padding-16 w3-center">
+  <br><br><br>
     <div class="w3-quarter" id="food">
     <a href="dessert.php">
      <img src="http://therawchef.com/wp-content/themes/Anatta-Theme/images/sales-page/desert.jpg" alt="Sandwich" style="width:100%">
@@ -70,22 +70,6 @@
     </div>
   </div>
   
-  <!-- Second Photo Grid-->
-  
-
-  <!-- Pagination -->
-  <!--<div class="w3-center w3-padding-32">
-    <ul class="w3-pagination">
-      <li><a class="w3-black" href="#">1</a></li>
-      <li><a class="w3-hover-black" href="#">2</a></li>
-      <li><a class="w3-hover-black" href="#">3</a></li>
-      <li><a class="w3-hover-black" href="#">4</a></li>
-      <li><a class="w3-hover-black" href="#">&raquo;</a></li>
-    </ul>
-  </div>
-  
-  <hr id="about">
-  <!-- About Section -->
   <hr>
   <div class="w3-container w3-padding-32 w3-center">  
     <h3>About Us, The Munchketeers!</h3><br>
@@ -109,15 +93,15 @@
 </div>
 </div>
 
-  <!-- Footer -->
-  <footer class="w3-center w3-#C1CFDA w3-padding-64" style="background-color:#C1CFDA;">
+<!-- Footer -->
+<footer class="w3-center w3-#C1CFDA w3-padding-64" style="background-color:#C1CFDA;max-width:1900px;margin:auto;">
   <div class="w3-xlarge" style="background-color:#C1CFDA;">
-   <a href="https://www.facebook.com/" class="w3-hover-text-indigo"><i class="fa fa-facebook-official"></i></a>
+    <a href="https://www.facebook.com/" class="w3-hover-text-indigo"><i class="fa fa-facebook-official"></i></a>
     <a href="https://www.pinterest.com/" class="w3-hover-text-red"><i class="fa fa-pinterest-p"></i></a>
     <a href="#" class="w3-hover-text-light-blue"><i class="fa fa-twitter"></i></a>
     <a href="https://twitter.com/" class="w3-hover-text-grey"><i class="fa fa-flickr"></i></a>
     <a href="https://www.linkedin.com/" class="w3-hover-text-indigo"><i class="fa fa-linkedin"></i></a>
-    <a href="index.php" class="w3-hover-text-red" title="Go to top"><i class="fa fa-arrow-up"></i></a>
+    <a href="login.php" class="w3-hover-text-red" title="Go to top"><i class="fa fa-arrow-up"></i></a>
   </div>
   
 </footer>
@@ -126,8 +110,6 @@
 <!-- End page content -->
 </div>
 <script src="js/calc.js"></script>
-
-
 
 </body>
 </html>
