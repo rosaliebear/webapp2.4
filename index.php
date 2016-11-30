@@ -36,6 +36,7 @@
   
 <!-- !PAGE CONTENT! -->
 <div class="w3-main w3-content w3-padding" style="max-width:1200px;margin-top:100px">
+<br><br><br>
 
   <!-- First Photo Grid-->
   <div class="w3-row-padding w3-padding-16 w3-center">
@@ -99,11 +100,11 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 
 <div class="overlay">
-<div class="pop-up" >
+<div class="pop-up" style="background-color: #20A4F3" >
   <a href="signup.php">
-  <h3 style="background-image: url('http://www.sohoyoga.com/wp-content/uploads/2013/12/Raw_Food_on_Forks.jpg');"; >Subscribe to be Awesome</h3>
+  <h3>Subscribe to be Awesome</h3>
   </a>
-  <span class="nope">Don't be awesome</span>
+  <span class="nope" style="color: white;">Don't be awesome</span>
 
 </div>
 </div>
