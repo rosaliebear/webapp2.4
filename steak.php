@@ -21,23 +21,20 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
 <center><img src="http://esq.h-cdn.co/assets/cm/15/05/54cd9252ec3a9_-_esq-steak-pan-sauce-020513-19tcti-xlg.jpg" style="text-align: center;"></center>
 <h1>Ingredients:</h1>
 <ul>
-  <li>1/2 package (8 ounces) spaghetti, broken in half</li>
-  <li>1 egg</li>
-  <li>1/4 cup grated Parmesan cheese</li>
-  <li>1/4 cup shredded mozzarella cheese</li>
-  <li>1-3/4 cups marinara sauce, divided</li>
-  <li>12 frozen Italian Style Meatballs, thawed</li>
-  <li>1 tablespoon fresh chopped Basil</li>
-  <li>Additional Parmesan Cheese</li>
+  <li>4 pieces top sirloin steaks or 4 pieces rib eye steaks</li>
+  <li>4 -6 teaspoons salt (depending on taste)</li>
+  <li>4 teaspoons paprika</li>
+  <li>2 teaspoons ground black pepper</li>
+  <li>1 teaspoon onion powder</li>
+  <li>1 teaspoon garlic powder</li>
+  <li>1 teaspoon cayenne pepper</li>
+  <li>1⁄2 teaspoon coriander</li>
+  <li>1⁄2 teaspoon turmeric</li>
 </ul>
 <br><hr>
 <h1>Directions:</h1>
-<p>Preheat oven to 400°F.Cook spaghetti according to package directions. Rinse with cool water and drain.
-In a bowl, combine the egg, Parmesan cheese, mozzarella cheese, 1/4 cup marinara sauce and spaghetti.
-Grease a nonstick muffin pan. Use tongs to fill muffin cups with the spaghetti mixture. Make an indentation in the center of each cup, creating a nest.
-Bake for 13-15 minutes or until set.
-While spaghetti nests are baking, in a saucepan, heat meatballs and 1-1/2 cups marinara sauce over medium heat until meatballs are heated through.
-Carefully remove the baked spaghetti nests from the muffin pan and place on a serving platter. Spoon 1 tablespoon of marinara sauce in the middle of each nest and top with a meatball. Top with an additional tablespoon of sauce, basil and Parmesan cheese.</p>
+<p>Mix together seasoning ingredients and rub into each side of steak.
+Grill steaks on a large frying pan over medium-high heat; press down on steak with spatula or tongs to sear the edges.</p>
 
 
 
