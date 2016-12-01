@@ -44,12 +44,10 @@ $(document).ready(function(){
 </nav>
 <!-- Top menu -->
 <div class="w3-top">
-  <div class="w3-#C1CFDA w3-xlarge w3-padding-xlarge" style="max-width:1200px;margin:auto;background-color:#C1CFDA;">
+  <div class="w3-#C1CFDA w3-xlarge w3-padding-xlarge" style="max-width:1900px;margin:auto;background-color:#C1CFDA;">
     <div class="w3-opennav w3-left w3-hover-text-darkgrey" onclick="w3_open()">&#9776;</div>
-    <div class="w3-right"><div class="wrapper">
-    <input type="text" />
-    <button>Search</button>
-</div></div>
+    <div class="w3-right">
+</div>
     <div class="w3-center"><a href="index.php"><img src="logo2.png" width="150" height="90"></a></div>
   </div>
 </div>

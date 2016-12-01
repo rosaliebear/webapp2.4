@@ -24,10 +24,6 @@
     <div class="w3-opennav w3-left w3-hover-text-grey" onclick="w3_open()">&#9776;</div>
     <div class="w3-right">
       
-      <div class="wrapper">
-    <input type="text" />
-    <button>Search</button>
-</div>
 
     </div>
     <div class="w3-center"><a href="index.php"><img src="logo2.png" width="150" height="90"></a></div>
@@ -35,11 +31,12 @@
 </div>
   
 <!-- !PAGE CONTENT! -->
-<br><br><br>
+
+
 
   <!-- First Photo Grid-->
+   <br><br><br><br><br><br><br><br>
   <div class="w3-row-padding w3-padding-16 w3-center">
-  <br><br><br>
     <div class="w3-quarter" id="food">
     <a href="dessert.php">
      <img src="http://therawchef.com/wp-content/themes/Anatta-Theme/images/sales-page/desert.jpg" alt="Sandwich" style="width:100%">
